@@ -1,0 +1,1 @@
+﻿SELECT PrimaryColor.Name FROM Shades INNER JOIN PrimaryColor ON PrimaryColor.TypeId WHERE Shades.Id = 1
